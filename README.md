@@ -1,2 +1,0 @@
-# Hello-Word
-another repository
